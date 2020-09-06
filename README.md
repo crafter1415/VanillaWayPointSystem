@@ -10,7 +10,7 @@
 https://twitter.com/MCFascinatComd/status/1301822610788024320  
   
 期間内に以下のツイをいいねRTすると主が泣いて喜びます()  
-[未投稿]  
+https://twitter.com/crafter1415/status/1302547338246922245  
 
 ## 概要
 
