@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "enter": {
+            "trigger": "location"
+        }
+    },
+    "rewards": {
+        "function": "wps:playerinit"
+    }
+}

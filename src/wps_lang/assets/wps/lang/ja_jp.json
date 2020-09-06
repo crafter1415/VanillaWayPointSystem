@@ -1,0 +1,22 @@
+{
+    "wps.re_sort": "[ wps : ウェイポイント数の不一致によりIDの再割り当てが行われました ]",
+    "wps.wp.remove.confirm": "本当に削除しますか？この操作は元に戻せません！ ",
+    "wps.wp.add": "ウェイポイント %s を作成しました",
+    "wps.wp.remove": "ウェイポイント %s を削除しました",
+    "wps.wp.remove_all": "全てのウェイポイントを削除しました",
+    "wps.wp.toggle.off": "ウェイポイント %s を非表示にしました",
+    "wps.wp.toggle.on": "ウェイポイント %s を表示しました",
+    "wps.wp.teleport": "ウェイポイント %s にテレポートしました",
+    "wps.button.create": "[ウェイポイントを作成]",
+    "wps.button.remove_all": "[ウェイポイントをすべて消去]",
+    "wps.button.show": "[表示]",
+    "wps.button.hide": "[隠す]",
+    "wps.button.teleport": "[テレポート]",
+    "wps.button.remove": "[削除]",
+    "wps.page": "ページ",
+    "wps.reload": "[ WayPointSystem - 再読み込みが終わりました ]",
+    "wps.regist": "[ wps : プレイヤー情報を登録しました ]",
+    "wps.item.lore1": "このアイテムを投げると投げた場所にウェイポイントが出来る。",
+    "wps.item.lore2": "アイテム名を変えることによりウェイポイント名も変更が可能。",
+    "wps.item.lore3": "※金床で変更する場合名前は最大35文字"
+}

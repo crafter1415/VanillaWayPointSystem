@@ -1,0 +1,1 @@
+function wps:waypoint/list

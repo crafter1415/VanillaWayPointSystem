@@ -1,0 +1,22 @@
+{
+    "wps.re_sort": "[ wps : ID reassigned due to Waypoint count mismatch ]",
+    "wps.wp.remove.confirm": "Are you sure you want to delete it? This operation cannot be undone! ",
+    "wps.wp.add": "Created waypoint %s",
+    "wps.wp.remove": "Removed waypoint %s",
+    "wps.wp.remove_all": "Removed all waypoints",
+    "wps.wp.toggle.off": "Hided waypoint %s",
+    "wps.wp.toggle.on": "Showed waypoint %s",
+    "wps.wp.teleport": "Teleported to waypoint %s",
+    "wps.button.create": "[Create waypoint]",
+    "wps.button.remove_all": "[Clear all waypoints]",
+    "wps.button.show": "[Show]",
+    "wps.button.hide": "[Hide]",
+    "wps.button.teleport": "[Teleport]",
+    "wps.button.remove": "[Remove]",
+    "wps.page": "Page",
+    "wps.reload": "[ WayPointSystem - Load Successful ]",
+    "wps.regist": "[ wps : Player information has been registered ]",
+    "wps.item.lore1": "If you throw this item, you will get a waypoint where you throw it.",
+    "wps.item.lore2": "You can change the waypoint name by changing the item name.",
+    "wps.item.lore3": "*Name can be up to 35 characters long if modified with Anvil"
+}
